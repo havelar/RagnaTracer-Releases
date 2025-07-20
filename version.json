@@ -1,6 +1,6 @@
 {
-    "versao": "1.2.0",
-    "changelog": "• Adição do modo DarkMode\n• Melhorias na performance",
-    "url_instalador": "https://github.com/havelar/RagnaTracer-Releases/releases/download/v1.2.0/RagnaTracer_Setup.exe",
+    "versao": "1.2",
+    "changelog": "• Adição do AutoUpdate",
+    "url_instalador": "https://github.com/havelar/RagnaTracer-Releases/releases/latest/download/RagnaTracer_Setup.exe",
     "force": true
 }
