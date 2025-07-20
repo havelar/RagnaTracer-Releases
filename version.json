@@ -1,5 +1,5 @@
 {
-    "versao": "1.2",
+    "versao": "1.2.1",
     "changelog": "• Adição do AutoUpdate",
     "url_instalador": "https://github.com/havelar/RagnaTracer-Releases/releases/latest/download/RagnaTracer_Setup.exe",
     "force": true
