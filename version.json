@@ -1,6 +1,6 @@
 {
-    "versao": "1.2.4",
-    "changelog": "• Correção do display de XP",
+    "versao": "1.2.5",
+    "changelog": "• Adição do AutoUpdate\n• Correção do display de XP",
     "url_instalador": "https://github.com/havelar/RagnaTracer-Releases/releases/latest/download/RagnaTracer_Setup.exe",
     "force": false
 }
