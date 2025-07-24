@@ -1,6 +1,6 @@
 {
-    "versao": "1.2.6",
-    "changelog": "• Correção do botão de Abrir Macros",
+    "versao": "1.2.7",
+    "changelog": "• Correções e melhorias diversas",
     "url_instalador": "https://github.com/havelar/RagnaTracer-Releases/releases/latest/download/RagnaTracer_Setup.exe",
     "force": true
 }
