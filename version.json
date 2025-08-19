@@ -1,6 +1,6 @@
 {
-    "versao": "1.3.2",
-    "changelog": "• Adição da condicional \"check_item\" nos Macros\n• Adição de Atalhos para Macros\n• Macros mais rápidos\n• Adição de app para diagnóstico de usuário",
+    "versao": "1.3.3",
+    "changelog": "• Atualização de endereços de memória",
     "url_instalador": "https://github.com/havelar/RagnaTracer-Releases/releases/latest/download/RagnaTracer_Setup.exe",
-    "force": false
+    "force": true
 }
