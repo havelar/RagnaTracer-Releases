@@ -1,6 +1,6 @@
 {
-    "versao": "1.3.3",
-    "changelog": "• Atualização de endereços de memória",
+    "versao": "1.3.3.1",
+    "changelog": "• Atualização de endereços de memória\n• Melhoria de desempenho",
     "url_instalador": "https://github.com/havelar/RagnaTracer-Releases/releases/latest/download/RagnaTracer_Setup.exe",
-    "force": true
+    "force": false
 }
