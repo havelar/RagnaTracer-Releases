@@ -1,6 +1,6 @@
 {
-    "versao": "1.5.1",
-    "changelog": "• Correção da Aba de XP. Agora funcional para 4 Classes",
+    "versao": "1.5.2",
+    "changelog": "• Correção da Aba de XP. Agora funcional para 4 Classes\n• Correção da leitura de Pacotes.",
     "url_instalador": "https://github.com/havelar/RagnaTracer-Releases/releases/latest/download/RagnaTracer_Setup.exe",
     "force": true
 }
