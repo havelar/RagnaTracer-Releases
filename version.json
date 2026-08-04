@@ -1,5 +1,5 @@
 {
-    "versao": "1.6.1",
+    "versao": "1.6.3",
     "changelog": "• Interface renovada com menu lateral e fluxo inicial integrado à janela principal.\n• Nova Central de Overlays para Status, XP, Itens e Mobs, com modos Completo e Reduzido.\n• Overlays agora acompanham a posição da janela do Ragnarok automaticamente.\n• Status atualizado para as 4ª classes, incluindo AP, novos buffs e suporte ao nível 250.\n• Novo controle de Pausar e Retomar para congelar as métricas da sessão de farm.\n• XP/h mais estável, calculada com base nos últimos 10 minutos.\n• Rastreador de Lojas reformulado com filtros, alertas visuais e acesso à busca oficial.\n• Macros e atalhos mais responsivos, com interface reorganizada e suporte ao check_ap.\n• Captura de pacotes mais estável e nomes de monstros aprimorados com traduções LATAM.\n• Build, Diagnóstico e instalador aprimorados; atualizações agora preservam macros personalizados.",
     "url_instalador": "https://github.com/havelar/RagnaTracer-Releases/releases/latest/download/RagnaTracer_Setup.exe",
     "force": true
