@@ -1,7 +1,7 @@
 {
-    "versao": "1.7.2",
-    "changelog": "• Revitalização do aplicativo, com interface e experiência de uso renovadas.\n• Overlays agora avisam sobre a limitação da Tela Cheia e orientam o uso da Tela Janela.",
+    "versao": "1.7.3",
+    "changelog": "• Revitalização do aplicativo, com interface e experiência de uso renovadas.\n• Nova aba de Pets com fome, lealdade, alertas de alimentação e overlay dedicado.",
     "url_instalador": "https://github.com/havelar/RagnaTracer-Releases/releases/latest/download/RagnaTracer_Setup.exe",
-    "sha256_instalador": "a9fa1e3c228a948aee65466770dfba8597543ed93ff61876bf33871bdca4ae2d",
+    "sha256_instalador": "0d79d38fe3a5024cb7870aef732b76b237442ddf39cf95210fc54854c8bdaaf3",
     "force": true
 }
